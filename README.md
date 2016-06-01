@@ -47,4 +47,14 @@
 3. 紫色
 4. 黄色
 
+### 1.4 插入图片和连接
+  
+  > 连接测试，点击个人博客进行跳转
+
+[个人博客](http://blog.csdn.net/blueamertj)
+
+> 祝大家61快乐（插入图片）
+
+![](http://www.astiron.com/data/upload/image/201506/7748386409f3a7206cb4d7dfa24c78ce.jpg)
+
 ## 第二节 xxxxxx
