@@ -48,7 +48,8 @@
 4. 黄色
 
 ### 1.4 插入图片和连接
-  
+#### 1.4.1 行内形式
+
   > 连接测试，点击个人博客进行跳转
 
 [个人博客](http://blog.csdn.net/blueamertj)
@@ -56,5 +57,17 @@
 > 祝大家61快乐（插入图片）
 
 ![](http://www.astiron.com/data/upload/image/201506/7748386409f3a7206cb4d7dfa24c78ce.jpg)
+
+#### 1.4.2 参考模式
+我喜欢的网站有[百度][1]和
+[好123][2] or [GitHub][3].
+[1]: http://baidu.com/ "baidu"
+[2]: http://www.hao123.com/ "好123"
+[3]: https://github.com/ "GitHub"
+
+> 图片
+
+![][5]
+[5]:http://www.astiron.com/data/upload/image/201506/7748386409f3a7206cb4d7dfa24c78ce.jpg
 
 ## 第二节 xxxxxx
